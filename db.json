@@ -3,43 +3,4 @@
     "index": 0,
     "guid": "726642f5-550f-4867-a5a6-1f3a23a47318",
     "isActive": true,
-    "balance": "$1,248.61",
-    "picture": "http://placehold.it/32x32",
-    "age": 21,
-    "eyeColor": "green",
-    "name": "Hamilton Nichols",
-    "gender": "male",
-    "company": "PAPRICUT",
-    "email": "hamiltonnichols@papricut.com",
-    "phone": "+1 (984) 547-2382",
-    "address": "638 Roder Avenue, Wilsonia, North Dakota, 8058",
-    "about": "Exercitation commodo qui do veniam excepteur reprehenderit. Non fugiat non consectetur voluptate sit. Proident esse et labore commodo sint Lorem dolore nisi cupidatat enim sint minim ex ad. Pariatur aliquip aliquip nostrud eiusmod incididunt mollit eiusmod id veniam exercitation pariatur commodo veniam veniam. Minim id eu enim do laborum aute anim officia id.\r\n",
-    "registered": "2018-11-16T01:08:41 +05:00",
-    "latitude": 74.206055,
-    "longitude": -21.861937,
-    "tags": [
-      "quis",
-      "nostrud",
-      "ad",
-      "consequat",
-      "veniam",
-      "mollit",
-      "fugiat"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Church Dale"
-      },
-      {
-        "id": 1,
-        "name": "Tillman Benton"
-      },
-      {
-        "id": 2,
-        "name": "Sheri Hardin"
-      }
-    ],
-    "greeting": "Hello, Hamilton Nichols! You have 9 unread messages.",
-    "favoriteFruit": "banana"
   }
